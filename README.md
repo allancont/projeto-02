@@ -3,5 +3,6 @@
 Powered by Streamlit:
 
 
-Uploading 2022-08-08 10-19-59 (online-video-cutter.com) (1).mov…
+
+https://user-images.githubusercontent.com/67328283/183435992-c6bd05e8-c8b6-456b-8b73-d0cbb5d5248c.mov
 
